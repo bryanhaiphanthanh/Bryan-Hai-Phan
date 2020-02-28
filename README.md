@@ -1,4 +1,4 @@
 # InternetAnalysis
-This is an exploratory data analysis project where I compare internet usages in different around the world and find the impact it has on democracy, education, health, gdp, etc.
+In this analysis, we explore the differences in internet usages around the world and its correlating impacts to socio-economic elements like democracy, education, gdp, etc.
 
-I used R and RStudio for this project
+R language and R studio were used for this project.
